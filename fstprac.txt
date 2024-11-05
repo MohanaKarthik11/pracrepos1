@@ -1,1 +1,0 @@
-Java is a programming language and a platform.It is a simple,high-level,secured language.
