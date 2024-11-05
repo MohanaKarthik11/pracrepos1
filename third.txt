@@ -1,0 +1,4 @@
+Interface is a blueprint of a class which have only abstract methods and static variables.
+It implements Multiple inheritance concept.
+Gives a abstraction to the class .
+Interface can extend another interface but only implemented by class.
